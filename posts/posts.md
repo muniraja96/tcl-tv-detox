@@ -1,6 +1,6 @@
 # Posts
 
-Image for both: `before-after.png` (optionally add `after-home-screen.png` as a second image)
+Image for both: `before-after.png` (side-by-side). Or post two images: `before-google-tv-home.png` then `after-home-screen.png`.
 
 ---
 
