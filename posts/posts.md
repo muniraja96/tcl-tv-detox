@@ -27,6 +27,9 @@ No new TV. No money spent. Just one evening.
 
 Home screen from Ansub Khan's open-source tv-detox 🙌
 
+Everything I changed (with undo steps) + the HDMI fix:
+👉 https://github.com/muniraja96/tcl-tv-detox
+
 Would you let AI tidy up your TV?
 
 #AI #ClaudeCode #AndroidTV
@@ -41,10 +44,11 @@ Gave Claude Code one prompt. Over Wi-Fi it:
 • switched off 22 junk apps
 • freed 205 MB of RAM
 • replaced the ad-filled home screen
-• fixed a bug in the new one
 • made my Fire TV remote turn the TV on
 
 Asked before every change. ₹0 spent.
+
+https://github.com/muniraja96/tcl-tv-detox
 
 **Reply to your own post (credit):**
 Home screen: github.com/Ansub/tv-detox by @ansubkhan
