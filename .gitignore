@@ -1,0 +1,6 @@
+# Signing key: never publish. Updates to the installed app must be signed with it.
+*.jks
+*.keystore
+
+# Build output
+tvhome-build/out/
