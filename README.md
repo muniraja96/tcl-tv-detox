@@ -4,6 +4,8 @@ How I made my old TCL 32S5500 Android TV fast and calm again in one evening, usi
 
 ![Before and after](posts/before-after.png)
 
+**👉 Want to do this on your TV? Follow the [step-by-step guide](GUIDE.md).**
+
 ## What changed
 
 - **22 apps switched off** (not deleted): unused streaming apps, TCL ads and promos, Google TV extras, voice search
