@@ -6,8 +6,6 @@ How I made my old TCL 32S5500 Android TV fast and calm again in one evening, usi
 
 **👉 Want to do this on your TV? Follow the [step-by-step guide](GUIDE.md).**
 
-**📱 Also in this repo: [Realme GT 6 phone debloat](realme-gt6/).** 53 bloat apps removed, background drainers blocked, a security check, and screen-on time per charge up from 5h 44m to 7h 17m.
-
 ## What changed
 
 - **22 apps switched off** (not deleted): unused streaming apps, TCL ads and promos, Google TV extras, voice search
