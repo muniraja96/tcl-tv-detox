@@ -4,3 +4,7 @@
 
 # Build output
 tvhome-build/out/
+
+# Local working data: full app lists and personal phone backups. Never publish.
+phone-debloat/
+redmi note 10s backup/
